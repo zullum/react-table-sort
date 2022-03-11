@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
-import mockdata from "../data.json";
+// import mockdata from "../data.json";
 import TableBody from "./TableBody";
 import TableHead from "./TableHead";
 
